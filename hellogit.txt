@@ -2,4 +2,4 @@ hello,git
 second time insert a message
 third time insert a message and update No`2 line
 hot-fix branch make fix,make second fix...
-thank you atguigu,li
+thank you atguigu,li hot-fix update02
